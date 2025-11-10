@@ -1,2 +1,2 @@
-# qa_java
+# Qa_java
 QA Java Project
